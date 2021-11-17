@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+       @if (Model.isEnabled)
+            {
+                <div class="col-md-6">
+                    <div class="card" style="margin-top:10px">
+                        <span class="card-header bg-primary" style="color:white">
+                            新功能
+                        </span>
+                        <div class="card-body">
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                            <label>未完成的新功能</label>
+                        </div>
+                    </div>
+                </div>
+            }
+</div>
