@@ -29,7 +29,7 @@ namespace testToggle
                    // This section can be used to pull feature flag configuration from Azure App Configuration
                    builder.AddAzureAppConfiguration(o =>
                   {
-                      o.Connect("Endpoint=https://XXXXXX.azconfig.io;Id=Wg7S-lb-s0:98tqqTmOWPhNAQfqn21/;Secret=nQB0V0ji9/yHIOPzuXXXXXas=");
+                      o.Connect("Endpoint=https://appconfig20250415.azconfig.io;Id=MCiR;Secret=FH4Yq8CRiagsXWOnORQ2TNEr4db3ZXWqpTNywr2mcorfKLsAZh58JQQJ99BDACBsN548Atl6AAACAZAC20aC");
 
                       o.Select(KeyFilter.Any);
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\testToggle\\testToggle.csproj": {}
+    "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\testToggle.csproj": {}
   },
   "projects": {
-    "D:\\testToggle\\testToggle.csproj": {
+    "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\testToggle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\testToggle\\testToggle.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\testToggle.csproj",
         "projectName": "testToggle",
-        "projectPath": "D:\\testToggle\\testToggle.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\testToggle.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "D:\\testToggle\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8",
             "projectReferences": {}
           }
         },
@@ -39,8 +39,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8",
           "dependencies": {
             "Microsoft.Azure.AppConfiguration.AspNetCore": {
               "target": "Package",
@@ -57,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

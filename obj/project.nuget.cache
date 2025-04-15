@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IXQk1FAot7yFsu+lPfsQ0Ih+dBEU2rryV08TVup+ABfOjLsYoq87tPjqPMBJtmfYBee5KXBDQGr0U3MINr+2xg==",
+  "dgSpecHash": "zibce5SolZoZkQ2oTvxqR9W0OuHA4xmzI/FnQ5kC7EI6yb0aCTMYwV62EVbdc9i/dMagXw4jpRLhDsU9hliNYw==",
   "success": true,
-  "projectFilePath": "D:\\testToggle\\testToggle.csproj",
+  "projectFilePath": "C:\\Users\\vmadmin\\AZ-204-testFeatureManagement\\testToggle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.data.appconfiguration\\1.0.0\\azure.data.appconfiguration.1.0.0.nupkg.sha512",
